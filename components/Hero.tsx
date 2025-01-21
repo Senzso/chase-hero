@@ -1,10 +1,13 @@
+"use client"
+
 import Image from "next/image"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { CopyIcon } from "lucide-react"
+import { useState } from "react"
 
 export default function Hero() {
-  const contractAddress = "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+  const [contractAddress] = useState("6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN")
 
   const copyAddress = () => {
     navigator.clipboard.writeText(contractAddress)

@@ -1,8 +1,11 @@
+"use client"
+
 import { CopyIcon } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { useState } from "react"
 
 export default function HowToBuy() {
-  const contractAddress = "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+  const [contractAddress] = useState("6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN")
 
   const copyAddress = () => {
     navigator.clipboard.writeText(contractAddress)
