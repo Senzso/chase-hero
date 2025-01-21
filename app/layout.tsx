@@ -11,6 +11,13 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "The Official Chase Hero Meme",
   description: "The only official CHASE HERO meme token",
+  icons: [
+    {
+      rel: "icon",
+      url: "/fav.png",
+      type: "image/png",
+    },
+  ],
 }
 
 export default function RootLayout({
