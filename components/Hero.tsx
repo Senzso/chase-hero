@@ -33,7 +33,7 @@ export default function Hero() {
         </div>
         <div className="flex-1 relative">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/herocoin-vrp9wSMCwGYTLSmorMmOLZ4s9Qed2P.png"
+            src="/herocoin-vrp9wSMCwGYTLSmorMmOLZ4s9Qed2P.png"
             alt="CHASE HERO"
             width={600}
             height={800}

@@ -11,7 +11,7 @@ export default function Allocation() {
         </p>
         <div className="flex justify-center">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Pump-Fun-Logo-V4LFnvnuyzJ6U80S9npnUwBVHmHU3t.png"
+            src="/Pump-Fun-Logo.png"
             alt="Pump Logo - A stylized green and white pill"
             width={1000}
             height={600}

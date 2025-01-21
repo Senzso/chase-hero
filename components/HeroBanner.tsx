@@ -5,7 +5,7 @@ export default function HeroBanner() {
     <section className="w-full mt-16">
       <div>
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/section-IXiiMiboSL6iIjPw40QdY6aECp0gtR.png"
+          src="/section-IXiiMiboSL6iIjPw40QdY6aECp0gtR.png"
           alt="CHASE HERO Banner"
           width={2000}
           height={600}

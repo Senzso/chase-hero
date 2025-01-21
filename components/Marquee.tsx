@@ -18,7 +18,7 @@ export default function Marquee() {
           <div key={index} className="flex items-center gap-48">
             <span className="text-7xl font-bold text-[#070735]">$HERO</span>
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/marquee-S91VH7nizOgqwb6F2J2PH5Ewhw1nzS.png"
+              src="/marquee-S91VH7nizOgqwb6F2J2PH5Ewhw1nzS.png"
               alt="CHASE HERO"
               width={80}
               height={80}

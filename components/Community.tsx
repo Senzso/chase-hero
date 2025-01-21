@@ -21,7 +21,7 @@ export default function Community() {
           </div>
           <div className="lg:w-1/3">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/chase-3bCcpJIMcJ2wX4bVpT3P2RGg6wPqMc.png"
+              src="/chase-3bCcpJIMcJ2wX4bVpT3P2RGg6wPqMc.png"
               alt="CHASE HERO"
               width={400}
               height={600}

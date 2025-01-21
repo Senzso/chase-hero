@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <Link href="/" className="mb-4 md:mb-0">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
+              src="/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
               alt="CHASE HERO MEME"
               width={180}
               height={60}

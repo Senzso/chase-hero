@@ -8,7 +8,7 @@ export default function Navbar() {
       <div className="flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
+            src="/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
             alt="CHASE HERO MEME"
             width={180}
             height={60}
