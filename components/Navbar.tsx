@@ -27,6 +27,9 @@ export default function Navbar() {
           <Link href="#faq" className="text-gray-300 hover:text-white text-lg">
             FAQ
           </Link>
+          <Link href="https://x.com/ChaseHeroMeme" className="text-gray-300 hover:text-white text-lg">
+            Official X
+          </Link>
           <Link href="#how-to-buy">
             <Button className="bg-[#c41220] hover:bg-[#a00e1a] text-white text-lg rounded-[40px]">Buy Now</Button>
           </Link>

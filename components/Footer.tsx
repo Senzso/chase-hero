@@ -11,12 +11,12 @@ export default function Footer() {
           </Link>
           <div className="flex space-x-4">
             <Link
-              href="https://x.com/ChaseHeroMemes"
+              href="https://x.com/ChaseHeroMeme"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300"
             >
-              X.com/ChaseHeroMemes
+              Official X
             </Link>
           </div>
         </div>
