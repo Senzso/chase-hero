@@ -7,13 +7,7 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <Link href="/" className="mb-4 md:mb-0">
-            <Image
-              src="/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
-              alt="CHASE HERO MEME"
-              width={180}
-              height={60}
-              className="object-contain"
-            />
+            <Image src="/logo.png" alt="CHASE HERO MEME" width={180} height={60} className="object-contain" />
           </Link>
           <div className="flex space-x-4">
             <Link

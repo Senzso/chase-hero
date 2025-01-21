@@ -21,7 +21,7 @@ export default function Community() {
           </div>
           <div className="lg:w-1/3">
             <Image
-              src="/chase-3bCcpJIMcJ2wX4bVpT3P2RGg6wPqMc.png"
+              src="/chase.png"
               alt="CHASE HERO"
               width={400}
               height={600}

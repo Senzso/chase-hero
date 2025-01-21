@@ -17,13 +17,7 @@ export default function Marquee() {
         {[...Array(10)].map((_, index) => (
           <div key={index} className="flex items-center gap-48">
             <span className="text-7xl font-bold text-[#070735]">$HERO</span>
-            <Image
-              src="/marquee-S91VH7nizOgqwb6F2J2PH5Ewhw1nzS.png"
-              alt="CHASE HERO"
-              width={80}
-              height={80}
-              className="object-contain"
-            />
+            <Image src="/marquee.png" alt="CHASE HERO" width={80} height={80} className="object-contain" />
           </div>
         ))}
       </div>

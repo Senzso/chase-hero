@@ -5,7 +5,7 @@ export default function HeroBanner() {
     <section className="w-full mt-16">
       <div>
         <Image
-          src="/section-IXiiMiboSL6iIjPw40QdY6aECp0gtR.png"
+          src="/section.png"
           alt="CHASE HERO Banner"
           width={2000}
           height={600}

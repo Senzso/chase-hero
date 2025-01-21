@@ -9,13 +9,7 @@ export default function Navbar() {
     <nav className="bg-[#070735] rounded-[40px] py-4 px-6 max-w-5xl mx-auto mb-6">
       <div className="flex items-center justify-between">
         <Link href="/" className="text-2xl font-bold">
-          <Image
-            src="/logo-1HlCQGQFNK7BZXGf0Nf8HvN5Z6OdsG.png"
-            alt="CHASE HERO MEME"
-            width={180}
-            height={60}
-            className="object-contain"
-          />
+          <Image src="/logo.png" alt="CHASE HERO MEME" width={180} height={60} className="object-contain" />
         </Link>
         <div className="hidden md:flex items-center gap-8">
           <Link href="/" className="text-gray-300 hover:text-white text-lg">
