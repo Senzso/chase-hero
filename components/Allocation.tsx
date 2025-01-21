@@ -21,7 +21,7 @@ export default function Allocation() {
         <p className="text-sm text-gray-600 text-center mt-8 max-w-4xl mx-auto">
           Chase Hero Memes are intended to function as an expression of support for, and engagement with, the ideals and
           beliefs embodied by the symbol "$HERO" and the associated artwork, and are not intended to be, or to be the
-          subject of, an investment opportunity, investment contract, or security of any type. GetChaseHeroMemes.com is
+          subject of, an investment opportunity, investment contract, or security of any type. ChaseHeroMemes.com is
           not political and has nothing to do with any political campaign or any political office or governmental
           agency. 
         </p>
