@@ -23,7 +23,7 @@ export default function FAQ() {
             What is the official contract address and symbol for the CHASE HERO Meme?
           </AccordionTrigger>
           <AccordionContent className="text-xl text-gray-600">
-            CA: 6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN
+            CA will be posted on our official X @chaseheromeme.
             <br />
             Symbol: $HERO
           </AccordionContent>
