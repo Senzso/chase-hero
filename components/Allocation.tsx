@@ -11,7 +11,7 @@ export default function Allocation() {
         </p>
         <div className="flex justify-center">
           <Image
-            src="/Pump-Fun-Logo.png"
+            src="/allocation.png"
             alt="Pump Logo - A stylized green and white pill"
             width={1000}
             height={600}
@@ -23,16 +23,7 @@ export default function Allocation() {
           beliefs embodied by the symbol "$HERO" and the associated artwork, and are not intended to be, or to be the
           subject of, an investment opportunity, investment contract, or security of any type. GetChaseHeroMemes.com is
           not political and has nothing to do with any political campaign or any political office or governmental
-          agency. See Terms & Conditions
-          <a href="/terms" className="text-[#8B3168] hover:underline">
-            {" "}
-            Here
-          </a>
-          , See Card Allocation
-          <a href="#allocation" className="text-[#8B3168] hover:underline">
-            {" "}
-            Here
-          </a>
+          agency. 
         </p>
       </div>
     </section>
