@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"
 import { CopyIcon } from "lucide-react"
 
 export default function ContractAddress() {
-  const contractAddress = "TURN NOTIFICATIONS ON X"
+  const contractAddress = "dVDRtrzfttofjHuhxPtJjTQb2UEw7rvxSbgy9J6pump"
 
   const copyAddress = () => {
     navigator.clipboard.writeText(contractAddress)
