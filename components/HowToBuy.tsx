@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { useState } from "react"
 
 export default function HowToBuy() {
-  const [contractAddress] = useState("TURN NOTIFICATIONS ON X")
+  const [contractAddress] = useState("dVDRtrzfttofjHuhxPtJjTQb2UEw7rvxSbgy9J6pump")
 
   const copyAddress = () => {
     navigator.clipboard.writeText(contractAddress)
