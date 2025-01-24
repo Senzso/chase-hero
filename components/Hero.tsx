@@ -7,7 +7,7 @@ import { CopyIcon } from "lucide-react"
 import { useState } from "react"
 
 export default function Hero() {
-  const [contractAddress] = useState("TURN NOTIFICATIONS ON X")
+  const [contractAddress] = useState("dVDRtrzfttofjHuhxPtJjTQb2UEw7rvxSbgy9J6pump")
 
   const copyAddress = () => {
     navigator.clipboard.writeText(contractAddress)
